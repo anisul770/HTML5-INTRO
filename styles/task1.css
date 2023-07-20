@@ -1,0 +1,12 @@
+.test {
+    border-top: 1px double #333;
+    border-bottom: 1px double #333;
+    padding: 10px 0px 10px 0px;
+}
+.task{
+    padding-top: 10px;
+}
+#para{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
